@@ -23,8 +23,11 @@ Pandas
 Matplotlib
 
 **Hovedudfordringer:**
+
 Neural Network
+
 At læse tekst ud fra billedgenkendelse (og sammensætte det genkendte til hele ord)
+
 Plotting
 
 
