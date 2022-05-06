@@ -2,7 +2,7 @@
 
 Frederik, Janus, Rasmus
 
-Automatiseret Håndskrevet Diktat Korrekturlæser
+**Automatiseret Håndskrevet Diktat Korrekturlæser**
 
 **Problemstilling:**
 
