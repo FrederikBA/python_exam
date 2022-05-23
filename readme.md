@@ -1,6 +1,7 @@
 **Eksamensopgave Forslag**
 
-Frederik, Janus, Rasmus
+Frederik cph-fa116, Janus cph-jr270, Rasmus cph-rd92
+
 
 **Automatiseret Håndskrevet Diktat Korrekturlæser**
 
